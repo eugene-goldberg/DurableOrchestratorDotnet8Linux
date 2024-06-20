@@ -10549,24 +10549,26 @@
     ]
   },
   "packageFolders": {
-    "/home/user/.nuget/packages/": {}
+    "C:\\Users\\EGoldberg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/azure_functions/DurableOrchestratorDotnet8Linux/DurableOrchestratorDotnet8Linux.csproj",
+      "projectUniqueName": "C:\\Users\\EGoldberg\\dev\\DurableOrchestratorDotnet8Linux\\DurableOrchestratorDotnet8Linux.csproj",
       "projectName": "DurableOrchestratorDotnet8Linux",
-      "projectPath": "/home/user/azure_functions/DurableOrchestratorDotnet8Linux/DurableOrchestratorDotnet8Linux.csproj",
-      "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/azure_functions/DurableOrchestratorDotnet8Linux/obj/",
+      "projectPath": "C:\\Users\\EGoldberg\\dev\\DurableOrchestratorDotnet8Linux\\DurableOrchestratorDotnet8Linux.csproj",
+      "packagesPath": "C:\\Users\\EGoldberg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EGoldberg\\dev\\DurableOrchestratorDotnet8Linux\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/user/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\EGoldberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10650,7 +10652,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

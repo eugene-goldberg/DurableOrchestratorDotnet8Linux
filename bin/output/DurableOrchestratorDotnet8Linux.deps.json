@@ -1694,7 +1694,7 @@
         "runtime": {
           "lib/netstandard2.0/System.Reactive.Core.dll": {
             "assemblyVersion": "3.0.6000.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "3.0.6000.0"
           }
         }
       },
@@ -1706,7 +1706,7 @@
         "runtime": {
           "lib/netstandard2.0/System.Reactive.Interfaces.dll": {
             "assemblyVersion": "3.0.6000.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "3.0.6000.0"
           }
         }
       },
@@ -1718,7 +1718,7 @@
         "runtime": {
           "lib/netstandard2.0/System.Reactive.Linq.dll": {
             "assemblyVersion": "3.0.6000.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "3.0.6000.0"
           }
         }
       },
@@ -1730,7 +1730,7 @@
         "runtime": {
           "lib/netstandard2.0/System.Reactive.PlatformServices.dll": {
             "assemblyVersion": "3.0.6000.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "3.0.6000.0"
           }
         }
       },
@@ -1742,7 +1742,7 @@
         "runtime": {
           "lib/netstandard2.0/System.Reactive.Providers.dll": {
             "assemblyVersion": "3.0.6000.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "3.0.6000.0"
           }
         }
       },
